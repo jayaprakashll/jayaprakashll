@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **ethical hacking and AI development🤖**
 
-<img align = "right" alt = "Developer" width = "350" src="https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif">
+<img align = "right" alt = "Developer" width = "300" src="https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif">
 - 💬 Ask me about **ethical hacking**
 
 - 📫 How to reach me **hostname006@gamil.com**
