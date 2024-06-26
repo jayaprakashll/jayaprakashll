@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hostname006@gamil.com**
 
-- 📄 LinkedIn [www.linkedin.com/in/jaya-prakash-5bba0325b](www.linkedin.com/in/jaya-prakash-5bba0325b)
+- 📄 LinkedIn [www.linkedin.com/in/jaya-prakash-5bba0325b](https://www.linkedin.com/in/jaya-prakash-5bba0325b/)
 
 - ⚡ Fun fact **I think i am funny😎**
 
