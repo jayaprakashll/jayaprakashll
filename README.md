@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **ethical hacking and AI development🤖**
 
 <img align ="right" alt ="hacked" width="400" src="https://media4.giphy.com/media/lp3GUtG2waC88/200w.gif?cid=6c09b952a9yevhv2kmfz3tkrlisuul6xh54bak7ho9g6j8nz&ep=v1_gifs_search&rid=200w.gif&ct=g">
-
+<img align = "right" alt = "Developer" width = "400" src="https://media.tenor.com/Dc8nFwst79AAAAAi/kek-angry.gif">
 - 💬 Ask me about **ethical hacking**
 
 - 📫 How to reach me **hostname006@gamil.com**
