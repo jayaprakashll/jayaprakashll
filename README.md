@@ -1,4 +1,4 @@
-![logo](https://github.com/jayaprakashll/jayaprakashll/blob/main/Thansk%20for%20visiting%20(1).png)
+![logo](Thansk for visiting (1).png)
 <h1 align="center">Hi 👋, I'm Jayaprakash</h1>
 <h3 align="center">A passionate AI developer & Ethical Hacker from India</h3>
 
