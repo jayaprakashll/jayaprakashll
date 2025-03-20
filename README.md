@@ -53,8 +53,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayaprakash&show_icons=true&locale=en&layout=compact" alt="jayaprakash" /></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href=""></a></li>
+<li><a target="_blank" href="https://www.linkedin.com/posts/asunama-club_we-are-thrilled-to-share-that-our-asunama-activity-7265566824086257665-uC33?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAK_58B5GZyFX2V2D1Q3pKHDauc6JfgXFQ"></a></li>
+
 
 
 
