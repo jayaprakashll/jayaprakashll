@@ -51,17 +51,10 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayaprakash&show_icons=true&locale=en&layout=compact" alt="jayaprakash" /></p>
-
-<h1>Hi 👋, I'm </h1>
-<p>A passionate frontend developer from </p>
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href=""></a></li>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayaprakash&show_icons=true&locale=en" alt="Jayaprakash" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayaprakash&" alt="Jayaprakash" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayaprakash&show_icons=true&locale=en&layout=compact" alt="Jayaprakash" /></p>
-
 
 
 
