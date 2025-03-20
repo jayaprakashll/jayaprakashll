@@ -1,7 +1,7 @@
 <img src="https://github.com/jayaprakashll/jayaprakashll/blob/668621cfc17237564042e04453d25360b4d182c1/gitlogog.jpg" alt="logo" width="10000" height="400">
 
 <h1 align="center">Hi 👋, I'm Jayaprakash</h1>
-<h3 align="center">A passionate AI developer & Ethical Hacker from India</h3>
+<h3 align="center">AI developer ∞ Ethical Hacker </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayaprakash&label=Profile%20views&color=0e75b6&style=flat" alt="jayaprakash" /> </p>
 
