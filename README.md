@@ -1,4 +1,4 @@
-![logo](https://github.com/jayaprakashll/coldheartboy/blob/05f9159b608502e8c67cd25e51b60889cc789aa9/Thansk%20for%20visiting%20(1).png)
+![logo](https://images.unsplash.com/photo-1504805572947-34fad45aed93?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 <h1 align="center">Hi 👋, I'm Jayaprakash</h1>
 <h3 align="center">A passionate AI developer & Ethical Hacker from India</h3>
 
