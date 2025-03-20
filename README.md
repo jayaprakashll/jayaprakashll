@@ -1,4 +1,4 @@
-[logo](https://github.com/jayaprakashll/jayaprakashll/blob/668621cfc17237564042e04453d25360b4d182c1/gitlogog.jpg)
+<img src="https://github.com/jayaprakashll/jayaprakashll/blob/668621cfc17237564042e04453d25360b4d182c1/gitlogog.jpg" alt="logo" width="400" height="200">
 
 <h1 align="center">Hi 👋, I'm Jayaprakash</h1>
 <h3 align="center">A passionate AI developer & Ethical Hacker from India</h3>
